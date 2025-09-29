@@ -129,7 +129,7 @@ export const listProyek = [
     id: 4,
     gambar: Proyek4,
     nama: "SKS",
-    desk: "SKS ada short movie yang menceritakan tentang kehidupan seorang mahasiswa. Pada project kali ini, saya berperan sebagai pembuat naskah, editor, pembuat poster dan cameraman.",
+    desk: "SKS adalah short movie yang menceritakan tentang kehidupan seorang mahasiswa. Pada project kali ini, saya berperan sebagai pembuat naskah, editor, pembuat poster dan cameraman.",
     tools: ["Canva", "Premiere Pro"],
     link: "https://www.youtube.com/watch?v=-Ldjx7dmnf8",
     dad: "500",
