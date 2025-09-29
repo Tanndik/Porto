@@ -149,7 +149,7 @@ export const listProyek = [
     nama: "Portfolio",
     desk: "Ini adalah project saya yang berisi tentang informasi pribadi saya, yang berisi tentang data pribadi saya, dan project yang pernah saya buat.",
     tools: ["React.JS", "TailwindCSS", "JavaScript"],
-    link: "", 
+    link: "https://github.com/Tanndik/Porto", 
     dad: "700",
   },
 ];
